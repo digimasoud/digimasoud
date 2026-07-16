@@ -1,42 +1,49 @@
+<img src="https://raw.githubusercontent.com/digimasoud/digimasoud/master/assets/masoud-koleini-profile.jpg" alt="Masoud Koleini" width="170" align="right" />
+
 # Masoud Koleini
 
-<img src="https://raw.githubusercontent.com/digimasoud/digimasoud/master/assets/masoud-koleini-profile.jpg" alt="Masoud Koleini" width="180" align="right" />
+### Automation, Data Extraction & AI Workflow Specialist
 
-### Automation & Data Extraction Specialist
+I build practical systems for extracting, cleaning, and operationalizing messy data from the web, old workflows, local business sources, and content-heavy platforms.
 
-I design automation and data extraction systems for messy web data, old workflows, and ideas that need a practical technical first version.
+My strongest work is at the point where an idea needs a technical first version: crawler design, data pipelines, internal tools, AI-assisted workflow automation, and search/SEO-oriented data systems.
 
-My work sits between Python automation, web scraping, AI-assisted workflows, local business data extraction, and technical SEO systems.
+[LinkedIn](https://www.linkedin.com/in/masoudko/) · [GitHub](https://github.com/digimasoud) · [Email](mailto:koleini.masoud@gmail.com)
 
-## What I build
+---
 
-- Data extraction systems for websites, listings, directories, and source pages
-- Web crawlers and scraping workflows for messy or changing sources
-- AI-assisted tools for improving old administrative and office workflows
-- News ingestion and normalization pipelines
-- Local business data systems for search, SEO, and operations
-- Internal tools, import queues, dashboards, and repeatable automations
+## Focus Areas
 
-## Selected work
+- Web scraping and data extraction systems
+- AI-assisted workflow automation
+- News crawling, normalization, and publishing workflows
+- Local business data extraction and enrichment
+- Internal admin tools for repetitive office workflows
+- Technical SEO, local SEO, and real estate SEO systems
+- Prototype-to-MVP implementation for selected ideas
 
-- [Adaptive News Workflow](https://github.com/digimasoud/adaptive-news-workflow)  
-  A public workflow-focused project for repeatable news extraction, normalization, and publishing-ready data movement.
+## Selected Public Work
 
-- Local Business Extraction System  
-  A system for turning local business directories, listings, and source pages into structured datasets. Public release in progress.
+### [Adaptive News Workflow](https://github.com/digimasoud/adaptive-news-workflow)
+A workflow-focused project for turning messy news sources into repeatable extraction, monitoring, enrichment, and dataset delivery workflows.
 
-- Private AI Workflow Projects  
-  Several private projects focused on improving administrative and office workflows with AI-assisted software, automation, and structured data handling.
+Core themes: adaptive crawling, crawl health, proxy/IP monitoring, metadata extraction, JSON-LD handling, optional AI enrichment, developer access, and operator dashboards.
+
+### Local Business Extraction System
+A data extraction system for collecting and structuring local business information from directories, listings, and source pages.
+
+Public release in progress.
+
+## Private Work
+
+I have also built private AI and automation projects focused on improving administrative workflows, legacy office processes, data imports, and internal decision-support tools.
 
 ## Stack
 
-Python, Playwright, Scrapy, BeautifulSoup, React, WordPress workflows, JSON, CSV, Excel, automation scripts, AI-assisted development, machine learning concepts, local SEO, real estate SEO.
+`Python` · `Playwright` · `Scrapy` · `BeautifulSoup` · `React` · `Node.js` · `JSON` · `CSV` · `Excel` · `WordPress` · `AI-assisted development` · `Data workflows` · `Local SEO`
 
-## I am interested in
+## How I Work
 
-Selected international projects where the idea is interesting and the work has a real automation, data extraction, AI workflow, or search infrastructure challenge behind it.
+I am most interested in selected international projects where the problem is technical, useful, and worth thinking about deeply.
 
-## Contact
-
-- GitHub: [@digimasoud](https://github.com/digimasoud)
-- Email: [koleini.masoud@gmail.com](mailto:koleini.masoud@gmail.com)
+I usually fit best when a founder, operator, or technical team needs someone who can take an unclear automation/data idea and turn it into a working system.
