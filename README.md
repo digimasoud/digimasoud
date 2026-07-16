@@ -1,6 +1,6 @@
 # Masoud Koleini
 
-<img src="./assets/masoud-koleini-profile.jpg" alt="Masoud Koleini" width="180" align="right" />
+<img src="https://raw.githubusercontent.com/digimasoud/digimasoud/master/assets/masoud-koleini-profile.jpg" alt="Masoud Koleini" width="180" align="right" />
 
 ### Automation & Data Extraction Specialist
 
