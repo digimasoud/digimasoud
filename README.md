@@ -1,5 +1,7 @@
 # Masoud Koleini
 
+<img src="./assets/masoud-koleini-profile.jpg" alt="Masoud Koleini" width="180" align="right" />
+
 ### Automation & Data Extraction Specialist
 
 I design automation and data extraction systems for messy web data, old workflows, and ideas that need a practical technical first version.
